@@ -1,4 +1,4 @@
-var km_totali = parseInt(prompt('Quanti km vuoi percorrere?'))
+var km_totali = parseInt(prompt('Quanti km vuoi percorrere?'));
 var eta = parseInt(prompt('Quanti anni hai?'));
 var prezzo = km_totali * 0.21;
 var prezzo_finale;
